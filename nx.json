@@ -43,7 +43,7 @@
     "lint": {
       "inputs": [
         "default",
-        "{workspaceRoot}/.eslintrc.json",
+        "{workspaceRoot}/eslint.base.config.js",
         "{workspaceRoot}/.eslintignore"
       ]
     }
